@@ -1,0 +1,27 @@
+
+body {
+  background-image: url(".\images\backimg.png");
+  background-color:#F2F3F4;
+
+}
+
+h3 {
+  color: #000000;
+  margin-left: 20px;
+}
+
+table{
+color: #0d0d0d;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+thead{
+  color: #000000
+}
